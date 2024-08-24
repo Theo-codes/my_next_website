@@ -30,7 +30,7 @@ const Hero = () => {
           </Button>
           <h1>
             <Balancer>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit
+              Send me an email 📩
             </Balancer>
           </h1>
           <h3 className="text-muted-foreground">
